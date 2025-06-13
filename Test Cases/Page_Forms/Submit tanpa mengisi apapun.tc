@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Submit tanpa mengisi apapun</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>63338eea-0443-4850-ab30-6bdf923b24bd</testCaseGuid>
+</TestCaseEntity>

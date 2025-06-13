@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Submit dengan 255 karakter pada Current Address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8af2a84-d090-49e6-80b5-4fc72355a752</testCaseGuid>
+</TestCaseEntity>

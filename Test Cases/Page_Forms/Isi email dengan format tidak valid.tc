@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Isi email dengan format tidak valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ddecbe23-367d-4cd9-88a4-482c2c4f2506</testCaseGuid>
+</TestCaseEntity>

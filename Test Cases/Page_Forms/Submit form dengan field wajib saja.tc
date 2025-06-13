@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Submit form dengan field wajib saja</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1440aaf7-fdea-4d64-a50b-32d96b750e51</testCaseGuid>
+</TestCaseEntity>

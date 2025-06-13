@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Submit tanpa memilih Hobbies</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d9f5155b-c56b-44c8-b80c-d74e48298f38</testCaseGuid>
+</TestCaseEntity>

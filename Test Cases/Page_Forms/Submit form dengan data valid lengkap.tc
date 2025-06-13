@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Submit form dengan data valid lengkap</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf1c731c-3f27-4e1f-b0ca-9ecb7bdf0f52</testCaseGuid>
+</TestCaseEntity>

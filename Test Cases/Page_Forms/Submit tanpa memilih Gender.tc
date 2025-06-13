@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Submit tanpa memilih Gender</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>34d52c81-1224-4432-8ac1-90208d9efbb3</testCaseGuid>
+</TestCaseEntity>

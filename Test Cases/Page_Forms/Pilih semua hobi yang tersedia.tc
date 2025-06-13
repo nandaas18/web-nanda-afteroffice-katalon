@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pilih semua hobi yang tersedia</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>07815210-e738-48e2-a21d-effbec8ec5f0</testCaseGuid>
+</TestCaseEntity>
