@@ -39,7 +39,7 @@ WebUI.setText(findTestObject('Page_Forms/input_Email'), 'nandaalfatihahsusanto@g
 
 WebUI.click(findTestObject('Page_Forms/radio_Female'))
 
-WebUI.setText(findTestObject('Page_Forms/input_Mobile'), '08521')
+WebUI.setText(findTestObject('Page_Forms/input_Mobile'), '12345')
 
 WebUI.click(findTestObject('Page_Forms/input_dateOfBirthInput'))
 
