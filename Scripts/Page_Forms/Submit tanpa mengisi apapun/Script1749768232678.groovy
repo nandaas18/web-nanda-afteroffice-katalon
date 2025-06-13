@@ -33,3 +33,5 @@ WebUI.verifyElementNotPresent(findTestObject('Page_Forms/lbl_formSubmit'), 0)
 
 WebUI.click(findTestObject('Page_Forms/btn_Submit'))
 
+WebUI.closeBrowser()
+
